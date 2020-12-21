@@ -1,0 +1,10 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/FancazzistaScrap.t
+t/RedditScrapper.t
+t/WebsiteScrapper.t
+lib/Fancazzista/Scrap.pm
+lib/Fancazzista/Scrap/RedditScrapper.pm
+lib/Fancazzista/Scrap/WebsiteScrapper.pm
