@@ -17,8 +17,6 @@ sub new {
 
     bless $self, $class;
 
-    print "============ extractArticles\n";
-
     return $self;
 }
 
