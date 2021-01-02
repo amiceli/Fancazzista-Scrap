@@ -44,8 +44,6 @@ sub getPosts {
     my $self      = shift;
     my $subreddit = shift;
 
-    print "\n\n ===================" . Dumper $subreddit . "\n\n";
-
     my $base = "https://www.reddit.com/r/";
     my $url =
         $base
