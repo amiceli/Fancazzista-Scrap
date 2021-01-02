@@ -1,5 +1,5 @@
 ---
-abstract: 'Scrap websites articles and reddit posts'
+abstract: 'Scrap websites and reddit posts'
 author:
   - 'Antoine MICELI <https://miceli.click>'
 build_requires:
@@ -8,11 +8,11 @@ configure_requires:
   ExtUtils::MakeMaker: '0'
 dynamic_config: 0
 generated_by: 'ExtUtils::MakeMaker version 7.46, CPAN::Meta::Converter version 2.143240'
-license: MIT
+license: unknown
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: '1.4'
-name: Fancazzista::Scrap
+name: Fancazzista-Scrap
 no_index:
   directory:
     - t

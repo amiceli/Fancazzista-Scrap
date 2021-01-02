@@ -3,7 +3,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME         => 'Fancazzista::Scrap',
-    ABSTRACT     => 'Scrap web and reddit',
+    ABSTRACT     => 'Scrap websites and reddit posts',
     VERSION_FROM => 'lib/Fancazzista/Scrap.pm',
     PREREQ_PM    => {
         'LWP::UserAgent' => 0,

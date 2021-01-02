@@ -1,5 +1,5 @@
 {
-   "abstract" : "Scrap websites articles and reddit posts",
+   "abstract" : "Scrap websites and reddit posts",
    "author" : [
       "Antoine MICELI <https://miceli.click>"
    ],
@@ -12,7 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : 2
    },
-   "name" : "Fancazzista::Scrap",
+   "name" : "Fancazzista-Scrap",
    "no_index" : {
       "directory" : [
          "t",
